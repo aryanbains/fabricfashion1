@@ -8,7 +8,7 @@ import Testimonial from "../../components/testimonial/Testimonial";
 import { Link } from "react-router-dom";
 import Banner from "../../components/banner/Banner";
 import Popular from "../../components/popular/Popular";
-import Card from "../../components/Card/Card";
+import Card from "../../components/card/Card";
 import Categories from "../../components/Categories/Categories";
 
 function Home() {
